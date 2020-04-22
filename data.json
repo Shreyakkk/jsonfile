@@ -34,5 +34,41 @@
     "silver": "No",
     "bronze": "Yes",
     "total": "No"
+    },
+     {
+    "athlete": "Andy Murray",
+    "age": "Above 18",
+    "country": "Great Britain",
+    "year": 2012,
+    "date": "12/08/2012",
+    "sport": "Tennis",
+    "gold": "Yes",
+    "silver": "No",
+    "bronze": "No",
+    "total": "yes"
+    },
+    {
+    "athlete": "Magnus Moan",
+    "age": "Below 18",
+    "country": "Norway",
+    "year": 2006,
+    "date": "26/02/2006",
+    "sport": "Nordic Combined",
+    "gold": "No",
+    "silver": "yes,
+    "bronze": "No",
+    "total": "No"
+    },
+    {
+    "athlete": "Eric Lamaze",
+    "age": "Above 18",
+    "country": "Canada",
+    "year": 2008,
+    "date": "24/08/2008",
+    "sport": "Equestrian",
+    "gold": "Yes",
+    "silver": "No",
+    "bronze": "Yes",
+    "total": "No"
     }
    ]
